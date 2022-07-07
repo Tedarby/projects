@@ -6,3 +6,5 @@ search for help on google for the assignment.
 Example: If the course is identified as "X000" at WGU, It will be identified as "Y000" here in my archive.
 
 D768 - Technical_Communication A white paper, an executie summary, a press release and FAQ for the introduction of new functionalities to a mockup online video game retail store. 
+
+E191 - Advanced_Data_Managment For this project I was tasked with working with a database using a virtual machine to extract movie rental data from records of a mockup movie rental buisness. I came up with my own buissness question as well as wrote a SQL program that would pull the data required to answer the question and allow the company to periodically find out their highest grossing actor.
